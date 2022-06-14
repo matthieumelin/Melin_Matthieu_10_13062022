@@ -5,7 +5,13 @@ A partir des besoins du client, définis lors d'une première réunion, j'ai cr�
 
 J'ai également ralisé avec Figma une première ébauche d'une maquette dynamique. Enfin, j'ai comméncé à remplir un projet GitHub (Kanban) avec les principales tâches à réaliser.
 
+**Documentation :**
+- [Home (organisation application et stack technique)](https://github.com/matthieumelin/Melin_Matthieu_10_13062022/wiki)
+- Pages de l'application : [Connexion](https://github.com/matthieumelin/Melin_Matthieu_10_13062022/wiki/Page-de-connexion) | [Tableau de bord](https://github.com/matthieumelin/Melin_Matthieu_10_13062022/wiki/Page-tableau-de-bord) | [Tâches](https://github.com/matthieumelin/Melin_Matthieu_10_13062022/wiki/Page-tâches) | [Chat](https://github.com/matthieumelin/Melin_Matthieu_10_13062022/wiki/Page-chat) | [Calendrier](https://github.com/matthieumelin/Melin_Matthieu_10_13062022/wiki/Page-calendrier)
+
 **Liens utiles :**
+- [Répo GitHub](https://github.com/matthieumelin/Melin_Matthieu_10_13062022)
+- [Maquette Figma](https://www.figma.com/file/n3uhcyboNdRjqeDfaNMPHw/Learn%40Home?node-id=0%3A1)
 - [Kanban du projet](https://github.com/matthieumelin/Melin_Matthieu_10_13062022/projects/1)
 
 # License
